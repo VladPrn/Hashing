@@ -1,0 +1,1 @@
+Tutorial for 3 different hashing methods on the example of the problem of finding dictionary words in the text.
