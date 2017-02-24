@@ -1,4 +1,4 @@
-package com.vladprn.java;
+package edu.vladprn.java;
 
 /**
  * The container for string, element of List 

@@ -1,4 +1,4 @@
-package com.vladprn.java;
+package edu.vladprn.java;
 
 import java.awt.EventQueue;
 import java.awt.FileDialog;
@@ -62,7 +62,7 @@ public class App {
 	 */
 	private void initialize() {
 		frame = new JFrame();
-		frame.setTitle("Хэширование");
+		frame.setTitle("Хеширование");
 		frame.setBounds(100, 100, 280, 249);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);

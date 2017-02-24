@@ -1,4 +1,4 @@
-package com.vladprn.java;
+package edu.vladprn.java;
 
 /**
  * The second realization of HashSet by method of open addressing

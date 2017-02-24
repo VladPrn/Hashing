@@ -1,4 +1,4 @@
-package com.vladprn.java;
+package edu.vladprn.java;
 
 /**
  * The third realization of HashSet by method of double hashing

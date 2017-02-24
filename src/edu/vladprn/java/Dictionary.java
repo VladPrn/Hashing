@@ -1,4 +1,4 @@
-package com.vladprn.java;
+package edu.vladprn.java;
 
 import java.io.BufferedReader;
 import java.io.File;

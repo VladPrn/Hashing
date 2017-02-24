@@ -1,4 +1,4 @@
-package com.vladprn.java;
+package edu.vladprn.java;
 
 /**
  * Enum that determinate method of collision resolution

@@ -1,4 +1,4 @@
-package com.vladprn.java;
+package edu.vladprn.java;
 
 /**
  * Abstract class for store constants and functions for computing of hash code of string
